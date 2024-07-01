@@ -1,1 +1,3 @@
 # neural-network-challenges-2
+
+In this challenge we were tasked with creating a neural network that HR can use to predict if employees are likely to quit/resign. HR also would like to see if we can predict which department best fits each employee. This was done by first defining our x and y datasets and then encoding x and train_test_split. Then X was scaled and y was encoded. Now with our data prepared we build the neural network and build and fit a model for it. Finally we produce the resuls
